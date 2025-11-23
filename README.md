@@ -53,4 +53,3 @@ Runs at `http://localhost:3000`
 ## Future Improvements
 - Add visualizations (sparkline charts).
 - Portfolio summaries (total value, P/L).
-- Deployment scripts (Render + Vercel).
